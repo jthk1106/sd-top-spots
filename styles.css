@@ -1,7 +1,7 @@
 #button {
   font: bold 12px Arial;
   text-decoration: none;
-  background-color: rgb(104, 197, 250);
+  background-color: rgb(0, 17, 255);
   color: white;
   padding: 2px 6px 2px 6px;
   border-radius: 4px;
@@ -26,6 +26,6 @@
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
-  background-color: rgb(0, 44, 241);
-  color: white;
+  background-color: rgb(118, 225, 252);;
+  color: black;
 }
